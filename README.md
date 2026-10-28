@@ -1,56 +1,87 @@
-![Portfolio Screenshot](cp.png)
+<img width="1440" height="853" alt="Screenshot 2026-10-29 at 00 55 11" src="https://github.com/user-attachments/assets/533875a7-6167-4e5a-96f7-f10818e68f6a" />
 
-# 🌌 Amine Portfolio Website
 
-Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
-The website features smooth animations, typing effects, responsive design, and a clean dark red theme.
+# Siraj Shaikh | Personal Portfolio
+
+Welcome to my personal **portfolio website**, showcasing my projects, technical skills, education, and professional experience in AI evaluation and software development.
+
+The website features a responsive design, smooth animations, interactive elements, and a professional dark red theme.
 
 ---
 
 ## 🔗 Live Demo
-You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
+
+Visit my portfolio website: **(https://sirajshaikh01.github.io/siraj-portfolio/)**
 
 ---
 
 ## 🚀 Features
 
-- ⚡ **Responsive Design** — Works perfectly on all devices  
-- 🎨 **Typing Effect** — Animated text to showcase skills  
-- 🌍 **Smooth Scroll** — Fluid navigation between sections  
-- 💻 **Clean Structure** — Modular HTML, CSS, and JS  
-- 📧 **Contact Form** — Integrated with [EmailJS](https://www.emailjs.com/) for instant messaging  
+- ⚡ **Responsive Design** — Adapts to desktop, tablet, and mobile screens.
+- 🎨 **Interactive UI** — Clean design with animations and visual effects.
+- 💻 **Project Showcase** — Highlights my software development projects.
+- 📄 **Resume Access** — Provides access to my resume.
+- 📧 **Contact Information** — Makes it easy to connect professionally.
+- 🌐 **GitHub Integration** — Links to my repositories and projects.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
-| Category | Tools |
-|-----------|--------|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Animations** | CSS keyframes, IntersectionObserver |
-| **Form Handling** | EmailJS |
-| **Deployment** | GitHub Pages |
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | Java, Python, C++, SQL, JavaScript |
+| **Backend Development** | Spring Boot, Spring MVC, Spring Security, Hibernate |
+| **Frontend Development** | HTML5, CSS3, JavaScript, Angular |
+| **Databases** | MySQL, Firebase |
+| **Tools** | Git, GitHub, VS Code, IntelliJ IDEA, Postman, Maven |
+| **Core Concepts** | Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA) |
 
----
 
-## ⚙️ Setup & Usage
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/Saboo24/Sabo.git
-   cd Sabo
-   
+## 💼 Professional Interests
+
+- AI Training and Data Evaluation
+- Large Language Model (LLM) Evaluation
+- AI-Generated Code Evaluation
+- Java Development and Backend Engineering
+- Software Engineering
+
 ---
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- **Email:** sirajshaikh10687@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ssiirraajj/
+- **GitHub:** (https://github.com/sirajshaikh01)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+## ⚙️ Setup and Usage
+
+To run the portfolio locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sirajshaikh01/siraj-portfolio.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd siraj-portfolio
+   ```
+
+3. Open `index.html` in your browser.
+
+---
+
+## 🌐 Deployment
+
+This portfolio is hosted using **GitHub Pages**. Updates pushed to the configured GitHub branch can be published automatically.
+
+---
+
+Made with ❤️ by **Siraj Shaikh**
+
