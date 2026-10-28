@@ -7,13 +7,7 @@ Welcome to my personal **portfolio website**, showcasing my projects, technical 
 
 The website features a responsive design, smooth animations, interactive elements, and a professional dark red theme.
 
----
 
-## 🔗 Live Demo
-
-Visit my portfolio website: **(https://sirajshaikh01.github.io/siraj-portfolio/)**
-
----
 
 ## 🚀 Features
 
